@@ -1,6 +1,5 @@
 "use client";
 import Image from "next/image";
-import { useState } from "react";
 import HeaderLogo from "../../public/header-logo.png";
 import middleLogo from "../../public/middle-header-logo.png";
 import goldClock from "../../public/clock-gold-img.png";
